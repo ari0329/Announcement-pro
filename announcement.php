@@ -4,7 +4,7 @@
  * Plugin URI: http://example.com/custom-announcement-manager
  * Description: A simple announcement management plugin for WordPress with shortcode support (Network Sites Compatible)
  * Version: 2.0.1
- * Author: Hallienz
+ * Author: ari2903
  * Text Domain: custom-announcement-manager
  */
 
